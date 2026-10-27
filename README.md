@@ -1,6 +1,6 @@
 ## Wesley's Data Prep Suite
 
-Wesley's Data Prep Suite is a Python-based data preparation application built with Streamlit and Pandas. It was my first data preparation project, developed to simplify the process of cleaning, transforming, and assessing datasets before analysis.
+Wesley's Data Prep Suite is a Python-based data preparation application built with Streamlit and Pandas. The project was developed to simplify the process of cleaning, transforming, and assessing datasets before analysis.
 
 ### Key Features
 
